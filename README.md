@@ -37,6 +37,7 @@
 - Seaborn    - version 0.12.2
 - Statsmodels- version: 0.14.0
 - Sklearn    - version: 1.3.0
+- scipy      - version:1.11.1
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
